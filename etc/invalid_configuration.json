@@ -1,0 +1,4 @@
+{
+    "Text"      : "What is the {weather} like {today}?",
+    "Intent"    : "Get Weather"
+}
