@@ -1,0 +1,16 @@
+{
+    "Intents": [
+        {
+            "Text"      : "What is the {weather} like {today}?",
+            "Intent"    : "Get Weather"
+        },
+        {
+            "Text"      : "What is the {weather} like in {Paris} today?",
+            "Intent"    : "Get Weather City"
+        },
+        {
+            "Text"      : "Tell me an interesting {fact}.",
+            "Intent"    : "Get Fact"
+        }
+    ]
+}
